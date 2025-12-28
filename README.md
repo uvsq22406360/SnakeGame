@@ -1,4 +1,8 @@
 # Snake
+Ce projet consiste en un jeu de serpents
+en réseau (inspiré de l’antique jeu Snake,
+revisité à la façon du site slither.io).
+
 Ce projet utilise Maven.
 
 ## Compilation
